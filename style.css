@@ -1,0 +1,24 @@
+
+        h1{
+            color:blue;
+
+        }
+        #red{
+            color:red;
+        }
+        .anchor{
+            background-color: rosybrown;
+        }
+        *{border: solid}
+        .basic{
+            background-color: rebeccapurple;
+            display: flex;
+            justify-content: space-between;
+        }
+        .grid{
+            display: flex;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+
+        }
+
